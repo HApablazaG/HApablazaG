@@ -228,7 +228,7 @@
     <img alt="Hugo Apablaza's Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=HApablazaG&layout=compact&theme=dracula&hide_border=true">
   </a>
 
-  <a href="https://github.com/HApablazaG">
+  <!-- <a href="https://github.com/HApablazaG">
     <img alt="Hugo Apablaza's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=HApablazaG&range=last_7_days&layout=compact&theme=dracula&hide_border=true">
-  </a>
+  </a> -->
 </div>
