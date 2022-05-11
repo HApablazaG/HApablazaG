@@ -215,7 +215,7 @@
 
 <div align="center">
   <a href="https://github.com/HApablazaG">
-    <img alt="Hugo Apablaza's Contributions Stats" src="https://github-readme-streak-stats.herokuapp.com?user=HApablazaG&theme=dracula&hide_border=true">
+    <img alt="Hugo Apablaza's Contributions Stats" src="https://github-readme-streak-stats.herokuapp.com?user=HApablazaG&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
   </a>
 
   <a href="https://github.com/HApablazaG">
