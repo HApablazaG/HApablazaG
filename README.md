@@ -65,7 +65,7 @@
   </a>
 </div>
 
-<br><br/>
+<br />
 
 <details>
   <summary align="center">See full list</summary>
