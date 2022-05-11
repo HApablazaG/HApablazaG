@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <a href="https://hapablazag.dev">
     <img alt="Hugo Apablaza's GitHub Banner" src="./assets/banner.png" />
   </a>
@@ -12,7 +12,7 @@
   I'm a software engineer, with extensive experience as a full-stack web developer. I like to apply the "Best Practices" for writing coding, and always willing to learn new technologies.
 </p>
 
-<h2 align="center">Want to know more?</h2>
+<h3 align="center">Want to know more?</h3>
 
 <div align="center">
   <li>Check out my <a href="https://hapablazag.dev">Portfolio</a>.</li>
@@ -20,28 +20,24 @@
   <li>Download my <a href="https://hapablazag.dev/CV-Hugo-Apablaza-Guerrero.pdf" download>Resume</a>.</li>
 </div>
 
-<br />
-
-<h1 align="center">Reach me at</h1>
+<h2 align="center">Reach me at</h2>
 
 <div align="center">
-  <a style="margin-right: 8px; margin-left: 8px;" href="https://github.com/HApablazaG">
+  <a style="margin-right: 16px; margin-left: 16px;" href="https://github.com/HApablazaG">
     <img alt="Hugo Apablaza's GitHub Profile" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" height="40" width="40">
   </a>
-  <a style="margin-right: 8px; margin-left: 8px;" href="https://www.linkedin.com/in/hapablazag">
+  <a style="display: inline-flex; margin-right: 16px; margin-left: 16px;" href="https://www.linkedin.com/in/hapablazag">
     <img alt="Hugo Apablaza's LinkedIn Profile" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="40" width="40">
   </a>
-  <a style="margin-right: 8px; margin-left: 8px;" href="https://www.instagram.com/hapablazag">
+  <a style="display: inline-flex; margin-right: 16px; margin-left: 16px;" href="https://www.instagram.com/hapablazag">
     <img alt="Hugo Apablaza's Instagram Profile" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" height="40" width="40">
   </a>
-  <a style="margin-right: 8px; margin-left: 8px;" href="mailto:contact@hapablazag.dev">
+  <a style="display: inline-flex; margin-right: 16px; margin-left: 16px;" href="mailto:contact@hapablazag.dev">
     <img alt="Hugo Apablaza's Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" height="40" width="40">
   </a>
 </div>
 
-<br />
-
-<h1 align="center">Lenguages & Frameworks & Tools</h1>
+<h2 align="center">Lenguages & Frameworks & Tools</h2>
 
 <h3 align="center">Most common used stack</h3>
 
@@ -69,12 +65,10 @@
   </a>
 </div>
 
-<br />
-
 <details>
   <summary align="center">See full list</summary>
 
-  <h2 align="center">Languages</h2>
+  <h3 align="center">Languages</h3>
 
   <div align="center">
     <a style="margin-right: 8px; margin-left: 8px;" href="https://docs.microsoft.com/en-us/dotnet/csharp">
@@ -103,9 +97,7 @@
     </a>
   </div>
 
-  <br />
-
-  <h2 align="center">Frameworks & Tools</h2>
+  <h3 align="center">Frameworks & Tools</h3>
 
   <div align="center">
     <a style="margin-right: 8px; margin-left: 8px;" href="https://www.apache.org">
@@ -176,9 +168,7 @@
     </a>
   </div>
 
-  <br />
-
-  <h2 align="center">Databases</h2>
+  <h3 align="center">Databases</h3>
 
   <div align="center">
     <a style="margin-right: 8px; margin-left: 8px;" href="https://mariadb.org">
@@ -195,9 +185,7 @@
     </a>
   </div>
 
-  <br />
-
-  <h2 align="center">Others</h2>
+  <h3 align="center">Others</h3>
 
   <div align="center">
     <a style="margin-right: 8px; margin-left: 8px;" href="https://git-scm.com">
@@ -221,11 +209,9 @@
   </div>
 </details>
 
-<br />
+<h2 align="center">GitHub Stadistics</h2>
 
-<h1 align="center">GitHub Stadistics</h1>
-
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <a style="margin-right: 8px; margin-left: 8px;" href="https://github.com/HApablazaG">
     <img alt="Hugo Apablaza's Contributions Stats" src="https://github-readme-streak-stats.herokuapp.com?user=HApablazaG&theme=dracula&hide_border=true">
   </a>
@@ -237,11 +223,7 @@
   <!-- <a style="margin-right: 8px; margin-left: 8px;" href="https://github.com/HApablazaG">
     <img alt="Hugo Apablaza's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HApablazaG&count_private=true&show_icons=true&theme=dracula&hide_border=true">
   </a> -->
-</div>
 
-<br />
-
-<div style="display: flex; justify-content: center;">
   <a style="margin-right: 8px; margin-left: 8px;" href="https://github.com/HApablazaG">
     <img alt="Hugo Apablaza's Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=HApablazaG&layout=compact&theme=dracula&hide_border=true">
   </a>
