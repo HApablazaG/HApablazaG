@@ -26,12 +26,15 @@
   <a href="https://github.com/HApablazaG">
     <img alt="Hugo Apablaza's GitHub Profile" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" height="40" width="40">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/hapablazag">
     <img alt="Hugo Apablaza's LinkedIn Profile" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="40" width="40">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/hapablazag">
     <img alt="Hugo Apablaza's Instagram Profile" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" height="40" width="40">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:contact@hapablazag.dev">
     <img alt="Hugo Apablaza's Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" height="40" width="40">
   </a>
