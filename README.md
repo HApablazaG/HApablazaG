@@ -4,7 +4,7 @@
   </a>
 </div>
 
-![Visits Badge](https://badges.pufler.dev/visits/HApablazaG/portfolio)
+<!-- ![Visits Badge](https://badges.pufler.dev/visits/HApablazaG/portfolio) -->
 
 <h1 align="center">Hi there, I'm Hugo 👋</h1>
 
